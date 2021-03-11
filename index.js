@@ -4,7 +4,7 @@ const core = require('@actions/core');
 const github = require('@actions/github');
 
 try {
-    const nombreUsuario = core.getInput('who-to-great');
+    const nombreUsuario = core.getInput('who-to-greet');
     const time = (new Date()).toTimeString();
     const payload = JSON.stringify(github.context.payload, undefined, 2)
 
