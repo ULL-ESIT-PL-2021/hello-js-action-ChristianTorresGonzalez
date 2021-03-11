@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-ChristianTorresGonzalez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-2021/hello-js-action-ChristianTorresGonzalez.git"
+  },
+  "keywords": [],
+  "author": "Christian Torres Gonzalez <alu0101137902@ull.edu.es> (https://github.com/ChristianTorresGonzalez)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-ChristianTorresGonzalez/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-2021/hello-js-action-ChristianTorresGonzalez#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  }
+}
